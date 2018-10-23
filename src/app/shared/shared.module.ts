@@ -22,6 +22,12 @@ const materialModules = [
   MatIconModule,
   MatButtonModule,
   MatListModule,
+  MatCardModule,
+  MatGridListModule,
+  MatDividerModule,
+  MatFormFieldModule,
+  MatInputModule,
+  MatSelectModule,
   FlexLayoutModule
 ];
 
